@@ -65,9 +65,9 @@ Special thank you for all people that contributed for this project.
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+        <img src="https://avatars.githubusercontent.com/u/4108436?v=4" width="100px;" alt="Rodrigo Brancaglion Profile Picture"/><br>
         <sub>
-          <b>Fernanda Kipper</b>
+          <b>Rodrigo Brancaglion</b>
         </sub>
       </a>
     </td>

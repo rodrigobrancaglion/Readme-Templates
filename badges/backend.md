@@ -86,7 +86,7 @@ Here you can list the main routes of your API, and what are their expected reque
 **RESPONSE**
 ```json
 {
-  "name": "Fernanda Kipper",
+  "name": "Rodrigo Brancaglion",
   "age": 20,
   "email": "her-email@gmail.com"
 }
@@ -97,7 +97,7 @@ Here you can list the main routes of your API, and what are their expected reque
 **REQUEST**
 ```json
 {
-  "username": "fernandakipper",
+  "username": "rodrigobrancaglion",
   "password": "4444444"
 }
 ```
@@ -117,9 +117,9 @@ Special thank you for all people that contributed for this project.
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+        <img src="https://avatars.githubusercontent.com/u/4108436?v=4" width="100px;" alt="Rodrigo Brancaglion Profile Picture"/><br>
         <sub>
-          <b>Fernanda Kipper</b>
+          <b>Rodrigo Brancaglion</b>
         </sub>
       </a>
     </td>
