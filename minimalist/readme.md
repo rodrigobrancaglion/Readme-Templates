@@ -24,7 +24,7 @@ Description about the project...
 
 ## Contribute
 
-1. **Clone project**: `git clone https://github.com/Fernanda-Kipper/Readme-Templates.git`
+1. **Clone project**: `git clone https://github.com/RodrigoBrancaglion/Readme-Templates.git`
 2. **Create feature/branch**: `git checkout -b feature/NAME`
 
 ## License

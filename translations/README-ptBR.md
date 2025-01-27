@@ -31,7 +31,7 @@ _Leia isso em outros idiomas:_
 Se você quiser contribuir, clone este repositório, crie sua própria branch de trabalho e mãos à obra!
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/Readme-Templates.git
+git clone https://github.com/RodrigoBrancaglion/Readme-Templates.git
 ```
 
 ```bash
