@@ -33,7 +33,7 @@ _Read this in other languages:_
 If you want to contribute, clone this repo, create your work branch and get your hands dirty!
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/Readme-Templates.git
+git clone https://github.com/RodrigoBrancaglion/Readme-Templates.git
 ```
 
 ```bash
